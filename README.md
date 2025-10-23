@@ -26,5 +26,5 @@ REST API sederhana untuk mengelola daftar barang (sepatu) di layanan laundry sep
 
 ## 🌐 Link Proyek
 
-- **Repository GitHub:** ()
+- **Repository GitHub:** (https://github.com/rubenrussel/api-cuci-sepatu)
 - **Link Deploy Vercel:** `[[GANTI DENGAN LINK VERCEL ANDA](https://api-cuci-sepatu-1fohcove6-rubenrussels-projects.vercel.app)]`
